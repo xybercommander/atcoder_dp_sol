@@ -1,4 +1,4 @@
-//--------- FROG 2 ---------//
+//--------- B. FROG 2 ---------//
 
 #include <bits/stdc++.h>
 using namespace std;
